@@ -19,3 +19,7 @@ git branch -m master realease
 git remote add origin git@github.com:extogen/zadanie.git
 
 git push origin realease
+
+git push origin hotfix
+
+git push origin develope
